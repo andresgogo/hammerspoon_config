@@ -1,0 +1,9 @@
+[submodule "spaces"]
+	path = spaces
+	url = https://github.com/asmagill/hs._asm.undocumented.spaces.git
+[submodule "touchbar"]
+	path = touchbar
+	url = https://github.com/asmagill/hs._asm.undocumented.touchbar.git
+[submodule "touchdevice"]
+	path = touchdevice
+	url = https://github.com/asmagill/hs._asm.undocumented.touchdevice.git
